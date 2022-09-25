@@ -1,0 +1,12 @@
+print("Привет мир!")
+print("Привет программист!")
+print(2+2)
+print(10/3)
+name=input("your name? ")
+print(name)
+a = 'ПриветЫ'.lower().replace('ы', '').capitalize()
+print(a)
+a = 'Привет мир!'.replace('мир', 'python')
+print(a)
+a = "Предложение из нескольких слов"
+print(len(a.split(" ")))
